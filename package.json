@@ -1,7 +1,7 @@
 {
   "name": "wanikani-gfm-notes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Write Github-flavored Markdown in the notes.",
   "main": "dist/wanikani-gfm-notes.user.js",
   "scripts": {
     "build": "node scripts/build.js",
