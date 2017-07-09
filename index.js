@@ -10,8 +10,8 @@
 // @include     https://www.wanikani.com/vocabulary/*
 // @include     https://www.wanikani.com/review/session
 // @grant       none
-// @downloadURL https://seangenabe.gitlab.io/wanikani-gfm-notes/index.user.js
-// @updateURL   https://seangenabe.gitlab.io/wanikani-gfm-notes/index.user.js
+// @downloadURL https://seangenabe.gitlab.io/wanikani-gfm-notes/wanikani-gfm-notes.user.js
+// @updateURL   https://seangenabe.gitlab.io/wanikani-gfm-notes/wanikani-gfm-notes.user.js
 // @run-at      document-end
 // ==/UserScript==
 /* global marked:false */
