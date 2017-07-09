@@ -19,7 +19,9 @@
   },
   "keywords": [
     "userscript",
-    "wanikani"
+    "wanikani",
+    "gfm",
+    "github-flavored-markdown"
   ],
   "engines":{
     "node": ">=7.6"
