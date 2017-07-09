@@ -1,0 +1,17 @@
+image: node:latest
+pages:
+  cache:
+    paths:
+      - node_modules/
+  stage: deploy
+  script:
+    - npm i
+    - npm prune
+    - npm run build
+    - mkdir public
+    - cp -r dist/* public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

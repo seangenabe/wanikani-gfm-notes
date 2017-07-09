@@ -1,0 +1,27 @@
+{
+  "name": "wanikani-gfm-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/wanikani-gfm-notes.user.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "lint": "eslint index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-mirage": "^5.0.1",
+    "loud-rejection": "^1.6.0",
+    "mkdirp": "^0.5.1",
+    "mz": "^2.6.0"
+  },
+  "keywords": [
+    "userscript",
+    "wanikani"
+  ],
+  "engines":{
+    "node": ">=7.6"
+  }
+}
