@@ -3,6 +3,7 @@
 // @namespace   https://seangenabe.gitlab.io/wanikani-gfm-notes
 // @description Write Github-flavored Markdown in the notes.
 // @version     0.0.0.DYNAMIC_VERSION_NUMBER
+// @author      Sean Genabe
 // @require     https://unpkg.com/marked@0.3.6
 // @include     https://www.wanikani.com/radicals/*
 // @include     https://www.wanikani.com/level/*
